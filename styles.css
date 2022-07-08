@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  padding: 0;
+  }
+  h1{
+    padding: 0;
+    margin: 0;
+    font-size: 4rem;
+  }
+  P{
+    font-size: 3rem;
+  }
+.main{
+  margin: auto;
+  padding: 0 7%;
+  text-align: center;
+}
+.container
+{
+  display: inline-block;
+  margin: 0 20px;
+}
+.footdiv{text-align: center;}
